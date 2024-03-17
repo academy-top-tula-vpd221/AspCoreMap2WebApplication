@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCoreMap2WebApplication", "AspCoreMap2WebApplication\AspCoreMap2WebApplication.csproj", "{2CC8278D-C486-488A-A5F5-E3D5B363D329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC8278D-C486-488A-A5F5-E3D5B363D329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC8278D-C486-488A-A5F5-E3D5B363D329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC8278D-C486-488A-A5F5-E3D5B363D329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC8278D-C486-488A-A5F5-E3D5B363D329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D4C9A6-C9EC-4DCC-A958-474E2F03A5F7}
+	EndGlobalSection
+EndGlobal
